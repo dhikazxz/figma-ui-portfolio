@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=UI%2FUX%20Design%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=by%20Kadek%20Dhika&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=200&section=header&text=UI%2FUX%20Design%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=by%20Dhika&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Explorasi+Desain+UI%2FUX+dengan+Figma;Landing+Page+%7C+Prototipe+Interaktif;Simple.+Elegant.+User-Centered." alt="Typing SVG" />
 
@@ -102,6 +102,6 @@ Terus eksplorasi desain baru setiap saat!
 
 ⭐ **Jangan lupa beri star jika kamu suka portfolio ini!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=120&section=footer" width="100%"/>
 
 </div>
