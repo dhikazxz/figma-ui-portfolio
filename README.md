@@ -4,7 +4,7 @@ Kumpulan eksplorasi desain antarmuka (UI/UX) dan prototipe interaktif yang dibua
 
 ---
 
-## 1. D'Aquila — Landing Page
+## 1. D'Aquila — Landing Page Design
 Desain landing page modern dengan antarmuka elegan untuk kebutuhan presentasi properti dan real estat.
 
 ![Porto Aquila](assets/porto-aquila-baru.png)
@@ -13,7 +13,7 @@ Desain landing page modern dengan antarmuka elegan untuk kebutuhan presentasi pr
 
 ---
 
-## 2. Skyfacade — Web Interface Design
+## 2. Skyfacade — Landing Page Design
 Desain tata letak antarmuka web untuk proyek arsitektur, katalog fasad, dan showcase desain bangunan.
 
 ![Porto Skyfacade](assets/PORTO%20skyfacade.jpg)
