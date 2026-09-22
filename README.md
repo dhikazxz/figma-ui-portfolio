@@ -1,12 +1,15 @@
 <div align="center">
 
-# 🎨 UI/UX Design Portfolio
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=UI%2FUX%20Design%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=by%20Kadek%20Dhika&descAlignY=55&descSize=18" width="100%"/>
 
-**Kumpulan eksplorasi desain antarmuka (UI/UX) dan prototipe interaktif dibuat menggunakan Figma**
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Explorasi+Desain+UI%2FUX+dengan+Figma;Landing+Page+%7C+Prototipe+Interaktif;Simple.+Elegant.+User-Centered." alt="Typing SVG" />
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
 [![Design](https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadek-dhika-339513394)
+
+<img src="https://komarev.com/ghpvc/?username=kadek-dhika-portfolio&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -95,6 +98,10 @@ Terus eksplorasi desain baru setiap saat!
 
 *Tertarik berkolaborasi atau ingin lihat lebih banyak karya? Jangan ragu untuk menghubungi saya!*
 
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadek-dhika-339513394)
+
 ⭐ **Jangan lupa beri star jika kamu suka portfolio ini!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
