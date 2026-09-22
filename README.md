@@ -25,7 +25,7 @@ Desain tata letak antarmuka web untuk proyek arsitektur, katalog fasad, dan show
 ## 3. TwentyFour Cafe — Landing Page Design
 Desain landing page modern untuk kafe yang berfokus pada kemudahan eksplorasi menu, reservasi meja, dan penataan informasi lokasi.
 
-![Porto 24 Cafe](assets/Portofolio%2024%20cafeid.jpg)
+![Porto 24 Cafe](assets/Portofolio%2024%20cafeid.png)
 
 * 🔗 **Figma Project:** [Coba Prototipe Interaktif 24 Cafe di Figma](https://www.figma.com/proto/srAMCGeh0gDsd3qZouxA1l/Untitled?page-id=0%3A1&node-id=4-3&viewport=-1118%2C-749%2C0.45&t=8bcKj9wS8aYdNzfT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A3)
 
