@@ -17,7 +17,7 @@
 
 ## 📌 Tentang Portfolio Ini
 
-Repository ini berisi kumpulan proyek desain UI/UX yang saya kerjakan menggunakan **Figma**, mulai dari landing page properti, showcase arsitektur, hingga desain kafe modern. Setiap proyek dilengkapi dengan preview visual dan tautan langsung ke file Figma / prototipe interaktif.
+Repository ini berisi kumpulan proyek desain UI/UX yang saya kerjakan menggunakan **Figma**, mulai dari landing page properti, showcase arsitektur, kafe modern, hingga klinik kesehatan. Setiap proyek dilengkapi dengan preview visual dan tautan langsung ke file Figma / prototipe interaktif.
 
 ---
 
@@ -59,6 +59,19 @@ Desain landing page modern untuk kafe yang berfokus pada kemudahan eksplorasi me
 <img src="assets/Portofolio%2024%20cafeid.png" alt="Porto 24 Cafe" width="100%"/>
 
 [![Figma Prototype](https://img.shields.io/badge/Coba_Prototipe-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/srAMCGeh0gDsd3qZouxA1l/Untitled?page-id=0%3A1&node-id=4-3&viewport=-1118%2C-749%2C0.45&t=8bcKj9wS8aYdNzfT-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A3)
+
+<br/>
+
+---
+
+### 🏥 Klinik Pratama Tunas Harapan
+**Landing Page — Klinik & Layanan Kesehatan**
+
+Desain landing page klinik yang memudahkan pasien melihat layanan medis, jadwal dokter, fasilitas, ulasan pasien, hingga membuat janji temu dan kontak darurat 24 jam.
+
+<img src="assets/Portofolio%20KTH.png" alt="Porto Klinik Pratama Tunas Harapan" width="100%"/>
+
+[![Figma](https://img.shields.io/badge/Lihat_di_Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/rGFNxE1c1KsLawXkL7mfaH/Untitled?node-id=0-1&t=BjMfIZZXxKWFaw67-1)
 
 <br/>
 
